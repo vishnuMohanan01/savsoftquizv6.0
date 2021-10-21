@@ -1,3 +1,6 @@
+# avoiding committing secrets
+.env
+
 #-------------------------
 # Operating Specific Junk Files
 #-------------------------
